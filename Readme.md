@@ -1,5 +1,5 @@
 # Solution
-
+Intersection here would occur if s2>s1 and e2>e1
 The following problem is what one calls a sweep line algorithm. 
 From wikipedia "sweep algorithm is an algorithmic paradigm that uses a conceptual sweep line or sweep surface to solve various problems in Euclidean space." The runtime for the solution is O(nlogn). 
 ##How the algorithm was used here
